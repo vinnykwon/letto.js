@@ -1,5 +1,5 @@
 # letto.js
-Mobile-API for Letto a unique dating app where thoughts and emotions are more important than photos
+Mobile-API for [Letto](https://play.google.com/store/apps/details?id=com.tokarevco.letto) a unique dating app where thoughts and emotions are more important than photos
 
 ## Example
 ```JavaScript
